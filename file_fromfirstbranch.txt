@@ -1,1 +1,3 @@
 this is the text from first branch!
+
+modifying it for the second commit
